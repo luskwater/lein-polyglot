@@ -1,4 +1,4 @@
-(defproject polyglot/lein-template "0.1.0"
+(defproject polyglot/lein-template "0.1.1-SNAPSHOT"
   :description "Generate a Clojure/Java project"
   :url "https://github.com/luskwater/lein-polyglot"
   :license {:name "Eclipse Public License"
